@@ -18,15 +18,15 @@
 
     public static int featureMax(int[] tab)
     {
-        int maxi = tab[0];
+        int max = tab[0];
         for (int i = 1; i < tab.Length; i++)
         {
-            if (tab[i] > maxi)
+            if (tab[i] > max)
             {
-                maxi = tab[i];
+                max = tab[i];
             }
         }
 
-        return maxi;
+        return max;
     }
 }
