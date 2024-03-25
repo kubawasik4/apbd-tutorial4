@@ -15,4 +15,11 @@
         double avg = 0;
         return avg;
     }
+
+    public static int featureMax(int[] tab)
+    {
+        int max = tab[0];
+
+        return max;
+    }
 }
