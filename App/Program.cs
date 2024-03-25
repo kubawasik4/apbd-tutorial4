@@ -9,4 +9,10 @@
         }
         //modyfikacja 3
     }
+
+    public static double featureAverage(int[] tab)
+    {
+        double avg = 0;
+        return avg;
+    }
 }
